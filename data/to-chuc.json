@@ -1,0 +1,17 @@
+{
+  "company": {
+    "name": "CÔNG TY TNHH TƯ VẤN KIỂM ĐỊNH XÂY DỰNG TỨ HỮU",
+    "address": null,
+    "phone": "0946.135.156 – 0941.878.249",
+    "email": "ctytuhuu4b@hotmail.com",
+    "website": "www.tuhuu4b.com"
+  },
+  "lab": {
+    "name": "PHÒNG THÍ NGHIỆM KIỂM ĐỊNH XÂY DỰNG",
+    "las_code": "LAS-XD 632",
+    "standard": "TCVN ISO/IEC 17025:2017",
+    "address": "Số 39, Lý Thị Hui, KDC Tràng An, phường Bạc Liêu, tỉnh Cà Mau",
+    "phone": "0946.135.156 – 0941.878.249",
+    "email": "ctytuhuu4b@hotmail.com"
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "procedures": [
+    {
+      "code": "QT-4.1",
+      "name": "Đảm bảo tính khách quan và bảo mật thông tin",
+      "clauses": "4.1, 4.2"
+    },
+    {
+      "code": "QT-5.3",
+      "name": "Công bố thông tin năng lực và báo cáo Sở Xây dựng",
+      "clauses": "5.3; VBHN 54 Đ.5c, Đ.8a"
+    },
+    {
+      "code": "QT-5.4",
+      "name": "Thử nghiệm hiện trường và phòng thí nghiệm hiện trường",
+      "clauses": "5.4, 6.3.5, 6.4.2; VBHN 54 Đ.5b"
+    },
+    {
+      "code": "QT-6.2",
+      "name": "Quản lý nhân sự",
+      "clauses": "6.2"
+    },
+    {
+      "code": "QT-6.3",
+      "name": "Kiểm soát cơ sở vật chất và điều kiện môi trường",
+      "clauses": "6.3"
+    },
+    {
+      "code": "QT-6.4",
+      "name": "Quản lý thiết bị và liên kết chuẩn đo lường",
+      "clauses": "6.4, 6.5"
+    },
+    {
+      "code": "QT-6.6",
+      "name": "Mua sắm và đánh giá nhà cung cấp",
+      "clauses": "6.6"
+    },
+    {
+      "code": "QT-7.1",
+      "name": "Xem xét yêu cầu, đề nghị và hợp đồng",
+      "clauses": "7.1"
+    },
+    {
+      "code": "QT-7.2",
+      "name": "Lựa chọn, kiểm tra xác nhận và xác nhận giá trị sử dụng phương pháp",
+      "clauses": "7.2"
+    },
+    {
+      "code": "QT-7.3",
+      "name": "Lấy mẫu tại công trình",
+      "clauses": "7.3, 7.8.5"
+    },
+    {
+      "code": "QT-7.4",
+      "name": "Tiếp nhận, nhận biết, bảo quản, lưu và hủy mẫu",
+      "clauses": "7.4"
+    },
+    {
+      "code": "QT-7.6",
+      "name": "Ước lượng độ không đảm bảo đo",
+      "clauses": "7.6"
+    },
+    {
+      "code": "QT-7.7",
+      "name": "Đảm bảo giá trị sử dụng của kết quả",
+      "clauses": "7.7; VBHN 54 Đ.8a"
+    },
+    {
+      "code": "QT-7.8",
+      "name": "Báo cáo kết quả, tuyên bố sự phù hợp, ý kiến và diễn giải",
+      "clauses": "7.8; VBHN 54 Phụ lục III"
+    },
+    {
+      "code": "QT-7.9",
+      "name": "Giải quyết khiếu nại và thu thập phản hồi khách hàng",
+      "clauses": "7.9, 8.6"
+    },
+    {
+      "code": "QT-7.10",
+      "name": "Kiểm soát công việc không phù hợp và hành động khắc phục",
+      "clauses": "7.10, 8.7"
+    },
+    {
+      "code": "QT-7.11",
+      "name": "Kiểm soát dữ liệu và bảng tính Excel",
+      "clauses": "7.11"
+    },
+    {
+      "code": "QT-8.3",
+      "name": "Kiểm soát tài liệu",
+      "clauses": "8.3; 7.2.1.2–7.2.1.3"
+    },
+    {
+      "code": "QT-8.4",
+      "name": "Kiểm soát hồ sơ",
+      "clauses": "8.4, 7.5"
+    },
+    {
+      "code": "QT-8.5",
+      "name": "Hành động giải quyết rủi ro và cơ hội",
+      "clauses": "8.5"
+    },
+    {
+      "code": "QT-8.8",
+      "name": "Đánh giá nội bộ",
+      "clauses": "8.8"
+    },
+    {
+      "code": "QT-8.9",
+      "name": "Xem xét của lãnh đạo",
+      "clauses": "8.9"
+    }
+  ],
+  "forms": [
+    {
+      "code": "BM-01/QT-4.1",
+      "name": "Cam kết khách quan và bảo mật",
+      "procedure_code": "QT-4.1"
+    },
+    {
+      "code": "BM-02/QT-4.1",
+      "name": "Sổ nhận diện và kiểm soát rủi ro đối với tính khách quan",
+      "procedure_code": "QT-4.1"
+    },
+    {
+      "code": "BM-03/QT-4.1",
+      "name": "Sổ theo dõi cung cấp thông tin bảo mật cho bên thứ ba",
+      "procedure_code": "QT-4.1"
+    },
+    {
+      "code": "BM-01/QT-6.2",
+      "name": "Mô tả công việc và yêu cầu năng lực",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-02/QT-6.2",
+      "name": "Hồ sơ năng lực cá nhân",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-03/QT-6.2",
+      "name": "Kế hoạch đào tạo năm",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-04/QT-6.2",
+      "name": "Biên bản đánh giá tay nghề",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-05/QT-6.2",
+      "name": "Quyết định trao quyền",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-06/QT-6.2",
+      "name": "Ma trận năng lực theo nhóm chỉ tiêu",
+      "procedure_code": "QT-6.2"
+    },
+    {
+      "code": "BM-01/QT-6.3",
+      "name": "Sổ theo dõi điều kiện môi trường",
+      "procedure_code": "QT-6.3"
+    },
+    {
+      "code": "BM-02/QT-6.3",
+      "name": "Sổ theo dõi người ngoài vào khu vực thí nghiệm",
+      "procedure_code": "QT-6.3"
+    },
+    {
+      "code": "BM-01/QT-6.6",
+      "name": "Phiếu đề nghị mua sắm, dịch vụ",
+      "procedure_code": "QT-6.6"
+    },
+    {
+      "code": "BM-02/QT-6.6",
+      "name": "Danh sách và đánh giá nhà cung cấp",
+      "procedure_code": "QT-6.6"
+    },
+    {
+      "code": "BM-03/QT-6.6",
+      "name": "Biên bản kiểm tra hàng hóa, dịch vụ khi nhận",
+      "procedure_code": "QT-6.6"
+    },
+    {
+      "code": "BM-01/QT-7.1",
+      "name": "Phiếu yêu cầu thí nghiệm",
+      "procedure_code": "QT-7.1"
+    },
+    {
+      "code": "BM-02/QT-7.1",
+      "name": "Phiếu trao đổi với khách hàng",
+      "procedure_code": "QT-7.1"
+    },
+    {
+      "code": "BM-01/QT-7.4",
+      "name": "Sổ theo dõi nhận, lưu và hủy mẫu",
+      "procedure_code": "QT-7.4"
+    },
+    {
+      "code": "BM-02/QT-7.4",
+      "name": "Nhãn mẫu",
+      "procedure_code": "QT-7.4"
+    },
+    {
+      "code": "BM-01/QT-7.2",
+      "name": "Biên bản kiểm tra xác nhận phương pháp thử",
+      "procedure_code": "QT-7.2"
+    },
+    {
+      "code": "BM-02/QT-7.2",
+      "name": "Kế hoạch kiểm tra xác nhận phương pháp thử",
+      "procedure_code": "QT-7.2"
+    },
+    {
+      "code": "BM-01/QT-7.11",
+      "name": "Danh mục file Excel tính kết quả",
+      "procedure_code": "QT-7.11"
+    },
+    {
+      "code": "BM-02/QT-7.11",
+      "name": "Biên bản xác nhận file Excel",
+      "procedure_code": "QT-7.11"
+    },
+    {
+      "code": "BM-01/QT-7.8",
+      "name": "Danh mục nội dung bắt buộc của phiếu kết quả",
+      "procedure_code": "QT-7.8"
+    },
+    {
+      "code": "BM-02/QT-7.8",
+      "name": "Phiếu sửa đổi, thu hồi phiếu kết quả",
+      "procedure_code": "QT-7.8"
+    },
+    {
+      "code": "BM-03.NN/QT-7.8",
+      "name": "Phiếu kết quả thí nghiệm (trang tính BM.PKQ của từng file Excel; NN theo BM-01/QT-7.11)",
+      "procedure_code": "QT-7.8"
+    },
+    {
+      "code": "BM-04.NN/QT-7.8",
+      "name": "Phiếu ghi chép số liệu thí nghiệm (trang tính BM.SLT của từng file Excel; NN theo BM-01/QT-7.11)",
+      "procedure_code": "QT-7.8"
+    },
+    {
+      "code": "BM-01/QT-5.3",
+      "name": "Sổ theo dõi thay đổi năng lực và công bố lại",
+      "procedure_code": "QT-5.3"
+    },
+    {
+      "code": "BM-02/QT-5.3",
+      "name": "Báo cáo hoạt động phòng thí nghiệm hằng năm",
+      "procedure_code": "QT-5.3"
+    },
+    {
+      "code": "BM-01/QT-5.4",
+      "name": "Phiếu kiểm tra thiết bị mang ra hiện trường",
+      "procedure_code": "QT-5.4"
+    },
+    {
+      "code": "BM-02/QT-5.4",
+      "name": "Quyết định thành lập phòng thí nghiệm hiện trường",
+      "procedure_code": "QT-5.4"
+    },
+    {
+      "code": "BM-01/QT-7.3",
+      "name": "Biên bản lấy mẫu bê tông, vữa",
+      "procedure_code": "QT-7.3"
+    },
+    {
+      "code": "BM-02/QT-7.3",
+      "name": "Biên bản lấy mẫu nhựa đường, bê tông nhựa",
+      "procedure_code": "QT-7.3"
+    },
+    {
+      "code": "BM-03/QT-7.3",
+      "name": "Biên bản lấy mẫu vật liệu",
+      "procedure_code": "QT-7.3"
+    },
+    {
+      "code": "BM-04/QT-7.3",
+      "name": "Biên bản khoan lấy mẫu bê tông từ kết cấu",
+      "procedure_code": "QT-7.3"
+    },
+    {
+      "code": "BM-01/QT-7.6",
+      "name": "Bảng ước lượng độ không đảm bảo đo",
+      "procedure_code": "QT-7.6"
+    },
+    {
+      "code": "BM-01/QT-7.7",
+      "name": "Kế hoạch đảm bảo giá trị sử dụng của kết quả",
+      "procedure_code": "QT-7.7"
+    },
+    {
+      "code": "BM-02/QT-7.7",
+      "name": "Biên bản đánh giá kết quả kiểm soát chất lượng",
+      "procedure_code": "QT-7.7"
+    },
+    {
+      "code": "BM-01/QT-7.9",
+      "name": "Phiếu tiếp nhận và giải quyết khiếu nại",
+      "procedure_code": "QT-7.9"
+    },
+    {
+      "code": "BM-02/QT-7.9",
+      "name": "Phiếu khảo sát ý kiến khách hàng",
+      "procedure_code": "QT-7.9"
+    },
+    {
+      "code": "BM-01/QT-7.10",
+      "name": "Phiếu công việc không phù hợp và hành động khắc phục",
+      "procedure_code": "QT-7.10"
+    },
+    {
+      "code": "BM-02/QT-7.10",
+      "name": "Sổ theo dõi công việc không phù hợp và hành động khắc phục",
+      "procedure_code": "QT-7.10"
+    },
+    {
+      "code": "BM-01/QT-8.5",
+      "name": "Sổ rủi ro và cơ hội",
+      "procedure_code": "QT-8.5"
+    },
+    {
+      "code": "BM-01/QT-8.8",
+      "name": "Chương trình đánh giá nội bộ",
+      "procedure_code": "QT-8.8"
+    },
+    {
+      "code": "BM-02/QT-8.8",
+      "name": "Danh mục kiểm tra đánh giá nội bộ",
+      "procedure_code": "QT-8.8"
+    },
+    {
+      "code": "BM-03/QT-8.8",
+      "name": "Báo cáo đánh giá nội bộ",
+      "procedure_code": "QT-8.8"
+    },
+    {
+      "code": "BM-01/QT-8.9",
+      "name": "Biên bản xem xét của lãnh đạo",
+      "procedure_code": "QT-8.9"
+    },
+    {
+      "code": "BM-01/QT-6.4",
+      "name": "Lý lịch thiết bị",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-02/QT-6.4",
+      "name": "Danh mục thiết bị",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-03/QT-6.4",
+      "name": "Kế hoạch hiệu chuẩn, kiểm tra thiết bị năm",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-04/QT-6.4",
+      "name": "Phiếu xác nhận kết quả hiệu chuẩn",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-05/QT-6.4",
+      "name": "Tem nhận biết trạng thái thiết bị",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-06/QT-6.4",
+      "name": "Biên bản kiểm tra nội bộ thiết bị",
+      "procedure_code": "QT-6.4"
+    },
+    {
+      "code": "BM-01/QT-8.3",
+      "name": "Phiếu đề nghị soạn thảo/sửa đổi/hủy bỏ tài liệu",
+      "procedure_code": "QT-8.3"
+    },
+    {
+      "code": "BM-02/QT-8.3",
+      "name": "Danh mục tài liệu nội bộ",
+      "procedure_code": "QT-8.3"
+    },
+    {
+      "code": "BM-03/QT-8.3",
+      "name": "Danh mục tài liệu bên ngoài",
+      "procedure_code": "QT-8.3"
+    },
+    {
+      "code": "BM-04/QT-8.3",
+      "name": "Sổ phân phối và thu hồi tài liệu",
+      "procedure_code": "QT-8.3"
+    },
+    {
+      "code": "BM-01/QT-8.4",
+      "name": "Danh mục hồ sơ và thời hạn lưu trữ",
+      "procedure_code": "QT-8.4"
+    },
+    {
+      "code": "BM-02/QT-8.4",
+      "name": "Biên bản hủy hồ sơ",
+      "procedure_code": "QT-8.4"
+    }
+  ]
+}

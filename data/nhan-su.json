@@ -1,0 +1,29 @@
+{
+  "roles": [
+    { "code": "admin", "name": "Quản trị hệ thống", "description": "Cấu hình, tạo và khóa tài khoản, gán vai trò. Không sửa hồ sơ chuyên môn" },
+    { "code": "giam_doc", "name": "Giám đốc", "description": "Xem toàn bộ; duyệt giấy ủy quyền ký, xem xét của lãnh đạo" },
+    { "code": "truong_ptn", "name": "Trưởng PTN", "description": "Phân công, duyệt và phát hành phiếu kết quả, trao quyền nhân sự, quyết định xử lý công việc không phù hợp" },
+    { "code": "uy_quyen_ky", "name": "Người được ủy quyền ký", "description": "Ký thay Trưởng PTN trong phạm vi và thời hạn của giấy ủy quyền" },
+    { "code": "phu_trach_cl", "name": "Phụ trách chất lượng", "description": "Sổ rủi ro, đánh giá nội bộ, khiếu nại, hành động khắc phục; xác nhận file Excel (QT-7.11)" },
+    { "code": "nhan_mau", "name": "Cán bộ nhận mẫu", "description": "Lập phiếu yêu cầu, biên bản lấy mẫu, nhận mẫu, cấp mã mẫu, giao phiếu kết quả" },
+    { "code": "tnv", "name": "Thí nghiệm viên", "description": "Thực hiện việc được giao, ghi thiết bị đã dùng, tải lên PDF và file Excel" }
+  ],
+  "staff": [
+    { "full_name": "Thạch Kim Hía", "title": "Giám đốc", "roles": ["giam_doc"] },
+    { "full_name": "Liêu Đan Linh", "title": "Trưởng phòng thí nghiệm kiêm Phụ trách kỹ thuật", "roles": ["truong_ptn"] },
+    { "full_name": "Thạch Duy Khương", "title": "Phó phòng thí nghiệm kiêm Phụ trách chất lượng", "roles": ["phu_trach_cl", "uy_quyen_ky"] },
+    { "full_name": "Trần Danh Thơ", "title": "Thí nghiệm viên", "roles": ["tnv"] },
+    { "full_name": "Nguyễn Minh Tuấn", "title": "Thí nghiệm viên; Cán bộ tiếp nhận mẫu", "roles": ["tnv", "nhan_mau"] },
+    { "full_name": "Nguyễn Trung Thiện", "title": "Thí nghiệm viên", "roles": ["tnv"] },
+    { "full_name": "Nguyễn Hiền Đệ", "title": "Thí nghiệm viên", "roles": ["tnv"] }
+  ],
+  "settings": [
+    { "key": "nhac_truoc_han_ngay", "value": "30", "description": "Số ngày nhắc trước hạn hiệu chuẩn, kiểm tra thiết bị (QT-6.4)" },
+    { "key": "luu_mau_ngay", "value": "15", "description": "Hạn lưu mẫu sau ngày phát hành phiếu kết quả (QT-7.4)" },
+    { "key": "luu_mau_xi_mang_nhua_ngay", "value": "90", "description": "Hạn lưu mẫu xi măng, nhựa đường (QT-7.4)" },
+    { "key": "canh_bao_dung_luong_phan_tram", "value": "80", "description": "Mức cảnh báo dung lượng lưu trữ, sao lưu (%)" }
+  ],
+  "numbering": [
+    { "key": "phieu_ket_qua", "description": "Số phiếu kết quả (QT-7.8)", "pattern": "PKQ-{yymmdd}-{seq:3}" }
+  ]
+}

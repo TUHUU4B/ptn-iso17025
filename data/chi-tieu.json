@@ -1,0 +1,1186 @@
+[
+ {
+  "name": "THỬ NGHIỆM XI MĂNG",
+  "items": [
+   {
+    "stt": 1,
+    "group": "THỬ NGHIỆM XI MĂNG",
+    "name": "Xác định độ mịn (phương pháp sàng), khối lượng riêng",
+    "std": [
+     "TCVN 13605:2023"
+    ]
+   },
+   {
+    "stt": 2,
+    "group": "THỬ NGHIỆM XI MĂNG",
+    "name": "Xác định cường độ chịu uốn và chịu nén",
+    "std": [
+     "TCVN 6016:2011",
+     "ISO 679:2009"
+    ]
+   },
+   {
+    "stt": 3,
+    "group": "THỬ NGHIỆM XI MĂNG",
+    "name": "Xác định thời gian đông kết và độ dẻo tiêu chuẩn",
+    "std": [
+     "TCVN 6017:2015"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+  "items": [
+   {
+    "stt": 4,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định thành phần hạt",
+    "std": [
+     "TCVN 7572-2:2006",
+     "AASHTO T 27"
+    ]
+   },
+   {
+    "stt": 5,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định thành phần thạch học",
+    "std": [
+     "TCVN 7572-3:2006"
+    ]
+   },
+   {
+    "stt": 6,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định khối lượng riêng, khối lượng thể tích và độ hút nước",
+    "std": [
+     "TCVN 7572-4:2006",
+     "AASHTO T 84"
+    ]
+   },
+   {
+    "stt": 7,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định khối lượng riêng, khối lượng thể tích và độ hút nước của đá gốc và cốt liệu lớn",
+    "std": [
+     "TCVN 7572-5:2006",
+     "AASHTO T 85"
+    ]
+   },
+   {
+    "stt": 8,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định khối lượng thể tích xốp và độ hổng",
+    "std": [
+     "TCVN 7572-6:2006"
+    ]
+   },
+   {
+    "stt": 9,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định độ ẩm",
+    "std": [
+     "TCVN 7572-7:2006",
+     "AASHTO T 255"
+    ]
+   },
+   {
+    "stt": 10,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định hàm lượng bùn, bụi, sét, hàm lượng sét cục trong cốt liệu nhỏ",
+    "std": [
+     "TCVN 7572-8:2006",
+     "AASHTO T 11 / AASHTO T 112"
+    ]
+   },
+   {
+    "stt": 11,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định tạp chất hữu cơ",
+    "std": [
+     "TCVN 7572-9:2006"
+    ]
+   },
+   {
+    "stt": 12,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định cường độ và hệ số hoá mềm của đá gốc",
+    "std": [
+     "TCVN 7572-10:2006"
+    ]
+   },
+   {
+    "stt": 13,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định độ nén dập và hệ số hoá mềm của cốt liệu lớn",
+    "std": [
+     "TCVN 7572-11:2006"
+    ]
+   },
+   {
+    "stt": 14,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định độ hao mài mòn khi va đập của cốt liệu lớn trong máy Los Angeles",
+    "std": [
+     "TCVN 7572-12:2006",
+     "AASHTO T 96"
+    ]
+   },
+   {
+    "stt": 15,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định hàm lượng hạt thoi dẹt trong cốt liệu lớn",
+    "std": [
+     "TCVN 7572-13:2006"
+    ]
+   },
+   {
+    "stt": 16,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định độ góc cạnh của đá",
+    "std": [
+     "TCVN 11807:2017"
+    ]
+   },
+   {
+    "stt": 17,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định hàm lượng hạt mềm yếu, phong hoá",
+    "std": [
+     "TCVN 7572-17:2006"
+    ]
+   },
+   {
+    "stt": 18,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định hàm lượng hạt bị đập vỡ",
+    "std": [
+     "TCVN 7572-18:2006"
+    ]
+   },
+   {
+    "stt": 19,
+    "group": "THỬ NGHIỆM CỐT LIỆU LỚN VÀ NHỎ",
+    "name": "Xác định hàm lượng mica trong cốt liệu nhỏ",
+    "std": [
+     "TCVN 7572-20:2006"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+  "items": [
+   {
+    "stt": 20,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Chỉ dẫn kỹ thuật chọn thành phần bê tông các loại",
+    "std": [
+     "QĐ778/1998/BXD"
+    ]
+   },
+   {
+    "stt": 21,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Cát mịn cho bê tông và vữa - Hướng dẫn thiết kế cấp phối bê tông xi măng và vữa",
+    "std": [
+     "TCVN 10796:2015"
+    ]
+   },
+   {
+    "stt": 22,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Xác định thành phần cấp phối của bê tông sử dụng cát nghiền",
+    "std": [
+     "TCVN 9382:2012"
+    ]
+   },
+   {
+    "stt": 23,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hướng dẫn Lựa chọn Cấp phối cho Bê tông Khối lượng thông thường và Bê tông Khối lượng lớn",
+    "std": [
+     "ACI 211.1"
+    ]
+   },
+   {
+    "stt": 24,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Lựa chọn vật liệu, xác định thành phần bê tông đối với bê tông cường độ cao",
+    "std": [
+     "TCVN 10306:2014"
+    ]
+   },
+   {
+    "stt": 25,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hỗn hợp bê tông và bê tông – lấy mẫu, chế tạo và bảo dưỡng mẫu thử",
+    "std": [
+     "TCVN 3105:2022",
+     "ASTM C172 / C31",
+     "AASHTO T 141 / T 23"
+    ]
+   },
+   {
+    "stt": 26,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hỗn hợp bê tông và bê tông – Xác định độ sụt",
+    "std": [
+     "TCVN 3106:2022",
+     "ASTM C143",
+     "AASHTO T 119"
+    ]
+   },
+   {
+    "stt": 27,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hỗn hợp bê tông nặng – Xác định khối lượng thể tích",
+    "std": [
+     "TCVN 3108:1993",
+     "ASTM C138",
+     "AASHTO T 121"
+    ]
+   },
+   {
+    "stt": 28,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hỗn hợp bê tông và bê tông – Xác định độ tách vữa và độ tách nước",
+    "std": [
+     "TCVN 3109:2022",
+     "ASTM C232",
+     "AASHTO T 158"
+    ]
+   },
+   {
+    "stt": 29,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Hỗn hợp bê tông nặng – phương pháp phân tích thành phần hạt",
+    "std": [
+     "TCVN 3110:1993"
+    ]
+   },
+   {
+    "stt": 30,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định khối lượng riêng và độ rỗng",
+    "std": [
+     "TCVN 3112:2022",
+     "ASTM C642"
+    ]
+   },
+   {
+    "stt": 31,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định độ hút nước",
+    "std": [
+     "TCVN 3113:2022",
+     "ASTM C642"
+    ]
+   },
+   {
+    "stt": 32,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định độ chống thấm nước – phương pháp vết thấm",
+    "std": [
+     "TCVN 3116:2022"
+    ]
+   },
+   {
+    "stt": 33,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định cường độ chịu nén",
+    "std": [
+     "TCVN 3118:2022",
+     "ASTM C39",
+     "AASHTO T 22"
+    ]
+   },
+   {
+    "stt": 34,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định cường độ chịu uốn",
+    "std": [
+     "TCVN 3119:2022",
+     "ASTM C78 / C293",
+     "AASHTO T 97"
+    ]
+   },
+   {
+    "stt": 35,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – Xác định cường độ chịu kéo khi bửa",
+    "std": [
+     "TCVN 3120:2022",
+     "ASTM C496",
+     "AASHTO T 198"
+    ]
+   },
+   {
+    "stt": 36,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Vữa xây dựng – Phương pháp thử - Phần 1: xác định kích thước hạt lớn nhất của cốt liệu",
+    "std": [
+     "TCVN 3121-1:2022",
+     "ASTM C136"
+    ]
+   },
+   {
+    "stt": 37,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Vữa xây dựng – Phương pháp thử - Phần 2: lấy mẫu và chuẩn bị mẫu thử",
+    "std": [
+     "TCVN 3121-2:2022",
+     "ASTM C305 / ASTM C109"
+    ]
+   },
+   {
+    "stt": 38,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Vữa xây dựng – Phương pháp thử - Phần 10: xác định khối lượng thể tích mẫu đóng rắn",
+    "std": [
+     "TCVN 3121-10:2022",
+     "ASTM C109 / ASTM C642"
+    ]
+   },
+   {
+    "stt": 39,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Vữa xây dựng – Phương pháp thử - Phần 11: xác định cường độ uốn và nén của vữa đóng rắn",
+    "std": [
+     "TCVN 3121-11:2022",
+     "ASTM C348 / ASTM C109"
+    ]
+   },
+   {
+    "stt": 40,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – kiểm tra và đánh giá cường độ trên mẫu đúc",
+    "std": [
+     "TCVN 10303:2025"
+    ]
+   },
+   {
+    "stt": 41,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông – kiểm tra và đánh giá cường độ trên kết cấu toàn khối và sản phẩm đúc sẵn",
+    "std": [
+     "TCVN 14524:2025"
+    ]
+   },
+   {
+    "stt": 42,
+    "group": "THỬ NGHIỆM BÊ TÔNG - VỮA XI MĂNG VÀ CÁC SẢN PHẨM TỪ BÊ TÔNG XI MĂNG",
+    "name": "Bê tông cường độ cao cho kết cấu toàn khối – kiểm tra và đánh giá chất lượng",
+    "std": [
+     "TCVN 14525:2025"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+  "items": [
+   {
+    "stt": 43,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Lấy mẫu, bao gói, vận chuyển và bảo quản mẫu",
+    "std": [
+     "TCVN 2683:2012",
+     "ASTM D4220 / D1587",
+     "AASHTO T 207"
+    ]
+   },
+   {
+    "stt": 44,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định khối lượng riêng trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4195:2012",
+     "TCVN 8735:2012",
+     "AASHTO T 100"
+    ]
+   },
+   {
+    "stt": 45,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định độ ẩm và độ hút ẩm trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4196:2012",
+     "AASHTO T 265"
+    ]
+   },
+   {
+    "stt": 46,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định giới hạn dẻo và giới hạn chảy trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4197:2012",
+     "TCVN 14134-4:2024",
+     "AASHTO T 89",
+     "AASHTO T 90"
+    ]
+   },
+   {
+    "stt": 47,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định thành phần hạt trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4198:1995",
+     "TCVN 14134-3:2024",
+     "TCVN 14135-4:2024",
+     "ASTM D6913",
+     "ASTM D7928",
+     "AASHTO T 88"
+    ]
+   },
+   {
+    "stt": 48,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định sức chống cắt trên máy cắt phẳng trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4199:1995",
+     "ASTM D3080",
+     "AASHTO T 236"
+    ]
+   },
+   {
+    "stt": 49,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định tính nén lún trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4200:2012",
+     "ASTM D2435",
+     "AASHTO T 216"
+    ]
+   },
+   {
+    "stt": 50,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định độ chặt tiêu chuẩn trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4201:2012",
+     "ASTM D698",
+     "AASHTO T 99"
+    ]
+   },
+   {
+    "stt": 51,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định khối lượng thể tích trong phòng thí nghiệm",
+    "std": [
+     "TCVN 4202:2012",
+     "ASTM D2937"
+    ]
+   },
+   {
+    "stt": 52,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Đất dùng trong xây dựng đường bộ - Phương pháp thử - Phần 1: Chuẩn bị mẫu khô mẫu đất",
+    "std": [
+     "TCVN 14134-1:2024",
+     "ASTM D421",
+     "AASHTO T 87"
+    ]
+   },
+   {
+    "stt": 53,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Đất dùng cho xây dựng đường bộ - Phương pháp thử - Phần 2: Chuẩn bị mẫu ướt mẫu đất",
+    "std": [
+     "TCVN 14134-2:2024",
+     "ASTM D2217",
+     "AASHTO T 146"
+    ]
+   },
+   {
+    "stt": 54,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định đương lượng cát (hệ số ES)",
+    "std": [
+     "TCVN 14134-5:2024",
+     "ASTM D2419",
+     "AASHTO T 176"
+    ]
+   },
+   {
+    "stt": 55,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định vật liệu nhỏ hơn 75µm bằng phương pháp rửa",
+    "std": [
+     "TCVN 14135-4:2024",
+     "ASTM C117",
+     "AASHTO T 11"
+    ]
+   },
+   {
+    "stt": 56,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Đầm nén Proctor – Xác định độ ẩm tối ưu và khối lượng thể tích khô lớn nhất",
+    "std": [
+     "TCVN 12790:2020",
+     "AASHTO T 99",
+     "AASHTO T 180"
+    ]
+   },
+   {
+    "stt": 57,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định tỷ số CBR trong phòng thí nghiệm",
+    "std": [
+     "TCVN 12792:2020",
+     "ASSHTO T 193"
+    ]
+   },
+   {
+    "stt": 58,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định hệ số thấm trong phòng thí nghiệm",
+    "std": [
+     "TCVN 8723:2012",
+     "ASTM D2434"
+    ]
+   },
+   {
+    "stt": 59,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định hàm lượng hữu cơ của đất trong phòng thí nghiệm",
+    "std": [
+     "TCVN 8726:2012",
+     "AASHTO T 267"
+    ]
+   },
+   {
+    "stt": 60,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định tổng hàm lượng và hàm lượng các ion thành phần muối hòa tan của đất trong phòng thí nghiệm",
+    "std": [
+     "TCVN 8727:2012",
+     "TCVN 9436:2012"
+    ]
+   },
+   {
+    "stt": 61,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định độ bền nén một trục nở hông",
+    "std": [
+     "TCVN 9438:2012",
+     "TCVN 9403:2012",
+     "ASTM D2166"
+    ]
+   },
+   {
+    "stt": 62,
+    "group": "THỬ NGHIỆM ĐẤT, VẬT LIỆU ĐẮP VÀ CẤP PHỐI CÁC LOẠI",
+    "name": "Xác định khối lượng thể tích khô lớn nhất và nhỏ nhất của đất rời",
+    "std": [
+     "TCVN 8721:2012"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+  "items": [
+   {
+    "stt": 63,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Vật liệu kim loại – thử kéo – Phần 1: Phương pháp thử ở nhiệt độ phòng",
+    "std": [
+     "TCVN 197-1:2014",
+     "ISO 6892-1:2009"
+    ]
+   },
+   {
+    "stt": 64,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Vật liệu kim loại – Thử uốn",
+    "std": [
+     "TCVN 198:2008",
+     "ISO 7438:2005"
+    ]
+   },
+   {
+    "stt": 65,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Kiểm tra chất lượng mối hàn kim loại -Thử uốn",
+    "std": [
+     "TCVN 5401:2010"
+    ]
+   },
+   {
+    "stt": 66,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Thử kéo mối hàn kim loại –  Thử kéo dọc",
+    "std": [
+     "TCVN 8310:2010"
+    ]
+   },
+   {
+    "stt": 67,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Dây kim loại – Phương pháp thử kéo",
+    "std": [
+     "TCVN 1824:1993"
+    ]
+   },
+   {
+    "stt": 68,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Bu lông – Thử độ bền kéo đứt",
+    "std": [
+     "ISO 898-1"
+    ]
+   },
+   {
+    "stt": 69,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Kiểm tra dung sai hình dạng thép hình cán nóng (V,L,U,I)",
+    "std": [
+     "TCVN 7571-1-2-11-15:2019",
+     "Phụ lục A"
+    ]
+   },
+   {
+    "stt": 70,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Kiểm tra chiều dày thép tấm",
+    "std": [
+     "TCVN 7573:2006",
+     "ASTM A370"
+    ]
+   },
+   {
+    "stt": 71,
+    "group": "THỬ NGHIỆM VẬT LIỆU KIM LOẠI VÀ KIM LOẠI HÀN",
+    "name": "Kiểm tra chiều dày thép hộp",
+    "std": [
+     "JIS G 3466",
+     "ASTM A500"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+  "items": [
+   {
+    "stt": 72,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định khối lượng trên đơn vị diện tích",
+    "std": [
+     "TCVN 8221:2009"
+    ]
+   },
+   {
+    "stt": 73,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Qui định chung về lấy mẫu, thử mẫu và xử lý thống kê",
+    "std": [
+     "TCVN 8222:2009"
+    ]
+   },
+   {
+    "stt": 74,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định lực kéo giật và độ giãn dài kéo giật",
+    "std": [
+     "TCVN 8871-1:2011",
+     "ASTM D4632"
+    ]
+   },
+   {
+    "stt": 75,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định lực xé rách hình thang",
+    "std": [
+     "TCVN 8871-2:2011",
+     "ASTM D4533"
+    ]
+   },
+   {
+    "stt": 76,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định lực xuyên thủng CBR",
+    "std": [
+     "TCVN 8871-3:2011",
+     "ASTM D6241"
+    ]
+   },
+   {
+    "stt": 77,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định lực kháng xuyên thủng thanh",
+    "std": [
+     "TCVN 8871-4:2011",
+     "ASTM D4833"
+    ]
+   },
+   {
+    "stt": 78,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định áp lực kháng bục",
+    "std": [
+     "TCVN 8871-5:2011",
+     "ASTM D3786"
+    ]
+   },
+   {
+    "stt": 79,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định kích thước lỗ biểu kiến",
+    "std": [
+     "TCVN 8871-6:2011",
+     "ASTM D4751"
+    ]
+   },
+   {
+    "stt": 80,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định thấm đứng bằng thiết bị Permittivity",
+    "std": [
+     "TCVN 8487:2010",
+     "ASTM D4491"
+    ]
+   },
+   {
+    "stt": 81,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định độ bền kéo và giãn dài",
+    "std": [
+     "TCVN 8485:2010",
+     "ASTM D4595"
+    ]
+   },
+   {
+    "stt": 82,
+    "group": "THỬ NGHIỆM VẢI ĐỊA KỸ THUẬT VÀ CÁC SẢN PHẨM ĐỊA KỸ THUẬT",
+    "name": "Xác định độ bền kéo mối nối",
+    "std": [
+     "TCVN 9138:2012",
+     "ASTM D4884"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+  "items": [
+   {
+    "stt": 83,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch ốp lát - Xác định thước sai lệch kích thước và chất lượng bề mặt, độ hút nước, độ bền uốn, khuyết tật ngoại quan và sai lệch kích thước",
+    "std": [
+     "TCVN 6415:2016"
+    ]
+   },
+   {
+    "stt": 84,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch xi măng - Xác định kiểm tra kích thước khuyết tật ngoại quan, độ hút nước, tải trọng uốn gãy",
+    "std": [
+     "TCVN 6065:1995"
+    ]
+   },
+   {
+    "stt": 85,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch Terazo - Kiểm tra khuyết tật ngoại quan và sai lệch kích thước; Độ hút nước bề mặt, cường độ chịu uốn",
+    "std": [
+     "TCVN 7744:2013"
+    ]
+   },
+   {
+    "stt": 86,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Ngói - Xác định độ hút nước, thấm nước, khối lượng 1m2 ngói bão hòa nước, lực uốn gãy",
+    "std": [
+     "TCVN 4313:2023",
+     "TCVN 1453:2023"
+    ]
+   },
+   {
+    "stt": 87,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch bê tông - Xác định kiểm tra kích thước, màu sắc và khuyết tật ngoại quan, độ rỗng, cường độ chịu nén, độ thấm",
+    "std": [
+     "TCVN 6477:2016"
+    ]
+   },
+   {
+    "stt": 88,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch xây - Xác định kiểm tra kích thước và khuyết tật ngoại quan, cường độ chịu uốn, cường độ chịu nén, độ hút nước, khối lượng thể tích, độ rỗng, vết tróc do vôi, sự thoát muối",
+    "std": [
+     "TCVN 6355:2009"
+    ]
+   },
+   {
+    "stt": 89,
+    "group": "THỬ NGHIỆM GẠCH CÁC LOẠI VÀ NGÓI",
+    "name": "Gạch bê tông tự chèn - Xác định kiểm tra kích thước, màu sắc và khuyết tật ngoại quan, cường độ chịu nén",
+    "std": [
+     "TCVN 6476:1999"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+  "items": [
+   {
+    "stt": 90,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Phương pháp lấy mẫu và chuẩn bị mẫu",
+    "std": [
+     "TCVN 7494:2005"
+    ]
+   },
+   {
+    "stt": 91,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định độ kim lún ở 25oC",
+    "std": [
+     "TCVN 7495:2005"
+    ]
+   },
+   {
+    "stt": 92,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định độ kéo dài ở 25oC",
+    "std": [
+     "TCVN 7496:2005"
+    ]
+   },
+   {
+    "stt": 93,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định điểm hóa mềm (dụng cụ vòng và bi)",
+    "std": [
+     "TCVN 7497:2005;"
+    ]
+   },
+   {
+    "stt": 94,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định điểm chớp cháy (cốc mở Cleveland)",
+    "std": [
+     "TCVN 7498:2005"
+    ]
+   },
+   {
+    "stt": 95,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định lượng tổn thất sau khi đun nóng ở 1630c trong 5h",
+    "std": [
+     "TCVN 7499:2005",
+     "TCVN 11710:2017"
+    ]
+   },
+   {
+    "stt": 96,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định lượng hòa tan trong Trichlorothylene",
+    "std": [
+     "TCVN 7500:2023"
+    ]
+   },
+   {
+    "stt": 97,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định khối lượng riêng ở 250C",
+    "std": [
+     "TCVN 7501:2005"
+    ]
+   },
+   {
+    "stt": 98,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Xác định độ dính bám với đá",
+    "std": [
+     "TCVN 7504:2005"
+    ]
+   },
+   {
+    "stt": 99,
+    "group": "THỬ NGHIỆM NHỰA ĐƯỜNG VÀ CÁC SẢN PHẨM TỪ NHỰA ĐƯỜNG",
+    "name": "Chỉ số độ kim lún PI",
+    "std": [
+     "TCVN 13567-1:2022 - Phụ lục A.2"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+  "items": [
+   {
+    "stt": 100,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Hỗn hợp bê tông nhựa nóng – Thiết kế theo phương pháp Marshall",
+    "std": [
+     "TCVN 8820:2011"
+    ]
+   },
+   {
+    "stt": 101,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ ổn định, độ dẻo Marshall",
+    "std": [
+     "TCVN 8860-1:2011",
+     "ASTM D6927",
+     "AASHTO T 245"
+    ]
+   },
+   {
+    "stt": 102,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định hàm lượng nhựa bằng phương pháp chiết sử dụng máy quay ly tâm",
+    "std": [
+     "TCVN 8860-2:2011"
+    ]
+   },
+   {
+    "stt": 103,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định thành phần hạt",
+    "std": [
+     "TCVN 8860-3:2011",
+     "AASHTO T 27"
+    ]
+   },
+   {
+    "stt": 104,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định tỷ trọng lớn nhất, khối lượng riêng của bê tông nhựa ở trạng thái rời",
+    "std": [
+     "TCVN 8860-4:2011"
+    ]
+   },
+   {
+    "stt": 105,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định tỷ trọng khối, khối lượng thể tích của bê tông nhựa đã đầm nén",
+    "std": [
+     "TCVN 8860-5:2011"
+    ]
+   },
+   {
+    "stt": 106,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ chảy nhựa của bê tông nhựa",
+    "std": [
+     "TCVN 8860-6:2011"
+    ]
+   },
+   {
+    "stt": 107,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ góc cạnh của cát",
+    "std": [
+     "TCVN 8860-7:2011",
+     "AASHTO T 304"
+    ]
+   },
+   {
+    "stt": 108,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định hệ số độ chặt lu lèn của bê tông nhựa",
+    "std": [
+     "TCVN  8860-8:2011"
+    ]
+   },
+   {
+    "stt": 109,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ rỗng dư",
+    "std": [
+     "TCVN 8860-9:2011"
+    ]
+   },
+   {
+    "stt": 110,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ rỗng cốt liệu của bê tông nhựa",
+    "std": [
+     "TCVN  8860-10:2011"
+    ]
+   },
+   {
+    "stt": 111,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định đô rỗng lấp đầy nhựa của bê tông nhựa",
+    "std": [
+     "TCVN 8860-11:2011"
+    ]
+   },
+   {
+    "stt": 112,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định độ ổn định còn lại",
+    "std": [
+     "TCVN 8860-12:2011"
+    ]
+   },
+   {
+    "stt": 113,
+    "group": "THỬ NGHIỆM BÊ TÔNG NHỰA",
+    "name": "Xác định cường độ kéo khi ép chẻ",
+    "std": [
+     "TCVN 8862:2011"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM VẬT LIỆU BỘT KHOÁNG TRONG BÊ TÔNG NHỰA",
+  "items": [
+   {
+    "stt": 114,
+    "group": "THỬ NGHIỆM VẬT LIỆU BỘT KHOÁNG TRONG BÊ TÔNG NHỰA",
+    "name": "Xác định thành phần hạt",
+    "std": [
+     "TCVN 12884-2:2020"
+    ]
+   },
+   {
+    "stt": 115,
+    "group": "THỬ NGHIỆM VẬT LIỆU BỘT KHOÁNG TRONG BÊ TÔNG NHỰA",
+    "name": "Xác định độ ẩm",
+    "std": [
+     "TCVN 12884-2:2020"
+    ]
+   },
+   {
+    "stt": 116,
+    "group": "THỬ NGHIỆM VẬT LIỆU BỘT KHOÁNG TRONG BÊ TÔNG NHỰA",
+    "name": "Xác định hệ số thích nước",
+    "std": [
+     "TCVN 12884-2:2020"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "THỬ NGHIỆM HIỆN TRƯỜNG",
+  "items": [
+   {
+    "stt": 117,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định dung trọng, độ ẩm của đất, cát bằng phương pháp dao đai (xác định độ chặt của đất, cát tại hiện trường)",
+    "std": [
+     "TCVN 12791:2020",
+     "TCVN 8729:2012",
+     "TCVN 8730:2012",
+     "ASTM D2937"
+    ]
+   },
+   {
+    "stt": 118,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác khối lượng thể tích, độ ẩm của đất tại hiện trường bằng phương pháp rót cát (xác định độ chặt đất, đá dăm tại hiện trường)",
+    "std": [
+     "TCVN 8729:2012",
+     "TCVN 8730:2012",
+     "ASHTO T191"
+    ]
+   },
+   {
+    "stt": 119,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định độ bằng phẳng của mặt đường bằng thước 3m",
+    "std": [
+     "TCVN 8864:2011"
+    ]
+   },
+   {
+    "stt": 120,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định môđun đàn hồi “E” chung của kết cấu áo đường bằng cần đo võng Benkelman",
+    "std": [
+     "TCVN 8867:2025"
+    ]
+   },
+   {
+    "stt": 121,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định modul đàn hồi “E” nền đất và các lớp kết cấu áo đường bằng phương pháp sử dụng tấm ép cứng",
+    "std": [
+     "TCVN 8861:2011"
+    ]
+   },
+   {
+    "stt": 122,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Kiểm tra độ nhám mặt đường bằng phương pháp rắc cát",
+    "std": [
+     "TCVN 8866:2011"
+    ]
+   },
+   {
+    "stt": 123,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Bê tông nặng – phương pháp xác định cường độ nén bằng súng bật nẩy",
+    "std": [
+     "TCVN 9334:2012"
+    ]
+   },
+   {
+    "stt": 124,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Cọc – phương pháp thí nghiệm bằng tải trọng tĩnh ép dọc trục",
+    "std": [
+     "TCVN 9393:2012"
+    ]
+   },
+   {
+    "stt": 125,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định môđun biến dạng tại hiện trường bằng tấm nén phẳng",
+    "std": [
+     "TCVN 9354:2012"
+    ]
+   },
+   {
+    "stt": 126,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Thí nghiệm cắt cánh hiện trường cho đất dính",
+    "std": [
+     "TCVN 10184:2021",
+     "ASTM D2573"
+    ]
+   },
+   {
+    "stt": 127,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Đo điện trở đất",
+    "std": [
+     "TCVN 9385:2012"
+    ]
+   },
+   {
+    "stt": 128,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định cường độ bê tông hiện trường bằng phương pháp khoan",
+    "std": [
+     "TCVN 12252:2020"
+    ]
+   },
+   {
+    "stt": 129,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Xác định khả năng chịu tải của nắp hố ga, nắp thoát nước, song chắn rác",
+    "std": [
+     "TCVN 10333-3:2016"
+    ]
+   },
+   {
+    "stt": 130,
+    "group": "THỬ NGHIỆM HIỆN TRƯỜNG",
+    "name": "Kiểm tra hàm lượng nhựa tưới trên 1m2",
+    "std": [
+     "TCVN 8863:2025"
+    ]
+   }
+  ]
+ }
+]
