@@ -8,3 +8,5 @@
 - Dữ liệu nạp ban đầu sửa trong `data/` rồi chạy `npm run seed`.
 - Next.js 16: dùng `src/proxy.ts` (không dùng `middleware.ts`); đọc tài liệu trong `node_modules/next/dist/docs/` khi không chắc.
 - Kiểm tra trước khi đẩy mã: `npm run lint` và `npm run build`.
+
+- Đặc tả đầy đủ để xây các bước tiếp theo: `docs/HUONG-DAN-XAY-DUNG.md`.
