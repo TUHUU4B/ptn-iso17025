@@ -413,7 +413,7 @@ Trang Cấu hình hiện dung lượng Storage và cơ sở dữ liệu đã dù
 - Trang in: `src/app/in/<ma-bieu-mau>/[id]/page.tsx`, CSS `@page { size: A4; margin: 15mm 15mm 18mm 20mm; }`, ẩn thanh điều
   hướng khi in, người dùng bấm "In" của trình duyệt (lưu PDF được).
 - **Đầu trang:** logo + tên công ty + tên PTN + `LAS-XD … • TCVN ISO/IEC 17025:2017` + địa chỉ + điện thoại/email/website – tất cả
-  từ `company`, `lab`. **Chân trang:** trái `<mã biểu mẫu> | Lần ban hành: <revision>` (từ `form_codes`), phải `Trang x / y`.
+  từ `company`, `lab`. **Chân trang:** trái `<mã biểu mẫu> | Lần ban hành: <revision>` (từ `form_codes`), phải số trang dạng `x / y` (không ghi chữ "Trang", theo QT-8.3 mục 6.2).
 - Bố cục theo đúng biểu mẫu Word đã ban hành trong thư mục hệ thống tài liệu (người dùng cung cấp file khi cần đối chiếu):
   tiêu đề in hoa màu xanh đậm `#1f3864`, các phần A/B/C/D, bảng viền mảnh, khung ký 3 cột có viền.
 - Component dùng chung: `PrintHeader`, `PrintFooter`, `SignBlock` (3 cột), `KvTable` (bảng nhãn–giá trị 4 cột).
